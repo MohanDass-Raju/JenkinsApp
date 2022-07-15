@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.32602.291
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsApp", "JenkinsApp\JenkinsApp.csproj", "{5783A5EF-EB66-43D6-8C14-13E97B2F1C33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMaths", "MyMaths\MyMaths.csproj", "{E108A57B-C721-4B94-AE51-56723821E597}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5783A5EF-EB66-43D6-8C14-13E97B2F1C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5783A5EF-EB66-43D6-8C14-13E97B2F1C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5783A5EF-EB66-43D6-8C14-13E97B2F1C33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E108A57B-C721-4B94-AE51-56723821E597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E108A57B-C721-4B94-AE51-56723821E597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E108A57B-C721-4B94-AE51-56723821E597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E108A57B-C721-4B94-AE51-56723821E597}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
